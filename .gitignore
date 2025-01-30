@@ -1,5 +1,5 @@
 # Ignore node_modules directory
-Mehul Rawal/
+node_modules/
 
 # Ignore log files
 *.log
@@ -13,3 +13,10 @@ Mehul Rawal/
 *.exe
 *.list
 *.xml
+*.env
+
+
+.Python
+build/
+downloads/
+lib/
