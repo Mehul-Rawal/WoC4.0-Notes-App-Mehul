@@ -6,3 +6,10 @@ Mehul Rawal/
 
 # Ignore txt files
 *.txt
+
+
+*.dll
+*.py
+*.exe
+*.list
+*.xml
